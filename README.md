@@ -21,18 +21,6 @@
 https://zomato-clone-suraj-devere.vercel.app/
 
 
-## Collaborators
-
-- [@noorikhan](https://github.com/noorikhan)
-- [@sachinrawagent](https://github.com/sachinrawagent)
-- [@omthakur1224](https://github.com/omthakur1224)
-- [@Surajdevere09](https://github.com/Surajdevere09)
-- [@RohitBK201](https://github.com/RohitBK201)
-- [@pooja171195](https://github.com/pooja171195)
-
-
-
-
 
 
 
